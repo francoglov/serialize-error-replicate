@@ -1,0 +1,10 @@
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\obj\Debug\EnumSerializationExample.csproj.AssemblyReference.cache
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\obj\Debug\EnumSerializationExample.csproj.CoreCompileInputs.cache
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\bin\Debug\EnumSerializationExample.exe.config
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\bin\Debug\EnumSerializationExample.exe
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\bin\Debug\EnumSerializationExample.pdb
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\obj\Debug\EnumSerializationExample.exe
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\obj\Debug\EnumSerializationExample.pdb
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franco Glovasa\source\repos\EnumSerializationExample\EnumSerializationExample\obj\Debug\EnumSerializationExample.csproj.CopyComplete
